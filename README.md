@@ -8,3 +8,4 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/1e116cd28741457bb8bc810c73eb5107.png)
 
 当然也可以实例化myfake类去调用相关函数去伪造自己想要的数据。
+
